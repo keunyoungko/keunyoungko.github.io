@@ -1,2 +1,2 @@
 # keunyoungko.github.io
-portfolio
+data science, product design, and research portfolio
